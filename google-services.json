@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "120021196718",
+    "firebase_url": "https://be-there-or-be-square-599cb.firebaseio.com",
+    "project_id": "be-there-or-be-square-599cb",
+    "storage_bucket": "be-there-or-be-square-599cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120021196718:android:c20eb10f83b4d319",
+        "android_client_info": {
+          "package_name": "com.example.nicoleellis.bethereorbesquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120021196718-g9ldjvs250tk8gf6b65hcckfur0psm6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nicoleellis.bethereorbesquare",
+            "certificate_hash": "A67F432DA404FFB835A883DCBA2BD63DB1FD85DB"
+          }
+        },
+        {
+          "client_id": "120021196718-mcl8d3veik2h8f6ft0ig3due8sfq432r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXq-IKJHsXV7cIuYFY8CBrlAb--xqYlmA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120021196718-mcl8d3veik2h8f6ft0ig3due8sfq432r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
